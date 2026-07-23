@@ -1,5 +1,11 @@
+---
+title: "Atlantyda"
+aliases:
+  - "Atlantyda"
+---
+
 # Atlantyda
 
-Zespół założony przez [[Sławomir Klupś|Sławomira Klupsia]], wykonujący autorskie piosenki żeglarskie [1, 9].
+Zespół założony przez [[slawomir-klups|Sławomira Klupsia]], wykonujący autorskie piosenki żeglarskie [1, 9].
 
-Powiązania: [[Sławomir Klupś]], [[Szanty we Wrocławiu]].
+Powiązania: [[slawomir-klups|Sławomir Klupś]], [[szanty-we-wroclawiu|Szanty we Wrocławiu]].
